@@ -10,7 +10,7 @@ const PROJECTS={
   desc:['An <b>ESP32</b> plant monitoring system that reads a <b>soil moisture sensor</b>. It is built with the Arduino framework on <b>PlatformIO</b>.'],
   images:[['assets/plant-monitor-1.jpg','Plant monitor prototype'],['assets/plant-monitor-2.jpg','Plant monitor wiring']]},
  'stm32-tetris':{title:'BLUE PILL TETRIS',tags:['Embedded Systems','STM32','Custom Driver'],
-  github:'https://github.com/capybrad/stm32-tetris',
+  github:'https://github.com/CapyBrad/STM32-Blue-Pill-Game-Console.git',
   desc:['A Tetris game console on an <b>STM32 Blue Pill</b> with an <b>SSD1306 OLED</b> display. The board has 32 KB of flash, so a custom minimal I2C driver (<b>SSD1306Mini</b>) replaces the Adafruit display libraries to fit.'],
   images:[['assets/tetris-1.jpg','Tetris console running'],['assets/tetris-2.jpg','Tetris console wiring']]}
 };
